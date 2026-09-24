@@ -1,0 +1,26 @@
+{
+  "name": "Mugen App Source",
+  "identifier": "com.saltymugen.altstoresource",
+  "subtitle": "Custom apps by SaltyMugen",
+  "description": "Personal source for Alt Store PAL",
+  "apps": [
+    {
+      "name": "Poden+",
+      "bundleIdentifier": "com.saltymugen.podenplus",
+      "developerName": "SaltyMugen",
+      "subtitle": "Poden+ for iOS",
+      "localizedDescription": "Poden+ application hosted via GitHub Pages.",
+      "iconURL": "https://saltymugen.github.io/Alt-Source-Mugen/icon.png",
+      "tintColor": "#007AFF",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-09-24",
+          "localizedDescription": "Initial release of Poden+",
+          "downloadURL": "https://saltymugen.github.io/Alt-Source-Mugen/Poden%2B.ipa",
+          "size": 15000000
+        }
+      ]
+    }
+  ]
+}
