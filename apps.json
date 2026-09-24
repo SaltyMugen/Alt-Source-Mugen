@@ -2,7 +2,7 @@
   "name": "Mugen App Source",
   "identifier": "com.saltymugen.altstoresource",
   "subtitle": "Custom apps by SaltyMugen",
-  "description": "Personal source for Alt Store PAL",
+  "description": "Personal source for AltStore PAL",
   "apps": [
     {
       "name": "Poden+",
